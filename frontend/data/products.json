@@ -1,0 +1,58 @@
+ [
+  {
+    "id": 1,
+    "name": "Sony WH-1000XM5",
+    "price": 24999,
+    "description": "Premium wireless headphones with exceptional noise cancellation, rich audio and all-day comfort.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=900"
+  },
+  {
+    "id": 2,
+    "name": "Apple AirPods Max",
+    "price": 59900,
+    "description": "Over-ear headphones delivering detailed sound, immersive audio and a premium design.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900"
+  },
+  {
+    "id": 3,
+    "name": "JBL Tune 510BT",
+    "price": 3499,
+    "description": "Lightweight wireless headphones with powerful bass and convenient everyday listening.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=900"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "price": 4999,
+    "description": "Compact wireless earbuds with a portable charging case and clear everyday audio.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=900"
+  },
+  {
+    "id": 5,
+    "name": "Mechanical Keyboard",
+    "price": 5999,
+    "description": "A durable mechanical keyboard designed for comfortable typing and productive work.",
+    "category": "Electronics",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=900"
+  },
+  {
+    "id": 6,
+    "name": "Minimal Desk Lamp",
+    "price": 1999,
+    "description": "A simple modern desk lamp for focused work and a clean workspace.",
+    "category": "Home",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=900"
+  },
+  {
+    "id": 7,
+    "name": "Classic Backpack",
+    "price": 2799,
+    "description": "An everyday backpack with a practical design and space for your essentials.",
+    "category": "Accessories",
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=900"
+  }
+]
